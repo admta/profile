@@ -105,8 +105,8 @@ table{
 }
 
 #img-profile {
-  width: 320px;
-  height: 300px;
+  width: 300px;
+  height: 280px;
   border: qpx solid #cccccc;
   border-top-width: 1px;
   border-right-width: 1px;
@@ -177,8 +177,6 @@ table{
         list-style-image: none;
         list-style-position: outside;
 }
-
-
 
 .container-fluid {
     width: 60%;
