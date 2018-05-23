@@ -75,7 +75,7 @@ a{
 }
 
 a:hover{
-  color: deepskyblue;
+  color: greenyellow;
   text-decoration: none;
 }
 
@@ -132,7 +132,7 @@ table{
 
 #movies {
     font-weight: 300;
-    font-size: 15px;
+    font-size: 16px;
     line-height: 1.6em;
 }
 
