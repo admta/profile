@@ -12,7 +12,7 @@ element {
 */
 .card {
 /*  background: #b3bfe6, opacity: .4;*/
-  background-color: rgba(173, 255, 47, 0.8);
+  background-color: rgba(154, 205, 50, 0.8);
   background-image: none;
   background-repeat: repeat;
   background-attachment: scroll;
@@ -85,7 +85,7 @@ table{
 }
 
 .btn-red {
-  background-color: deeppink;
+  background-color: hotpink;
   color: white;
   font-weight: 500;
   padding: 8px;
@@ -106,7 +106,6 @@ table{
 
 #img-profile {
   width: 300px;
-  height: 280px;
 
 }
 
