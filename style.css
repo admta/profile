@@ -12,7 +12,7 @@ element {
 */
 .card {
 /*  background: #b3bfe6, opacity: .4;*/
-  background-color: rgba(224, 224, 224, 0.6);
+  background-color: rgba(224, 224, 224, 0.8);
   background-image: none;
   background-repeat: repeat;
   background-attachment: scroll;
@@ -43,7 +43,7 @@ body{
   background-image: url("images/zelda.jpg");
   font-family: 'Open Sans', sans-serif;
   font-weight: 300;
-  color:  rgba(51, 255, 251);
+  color:  black;
   font-size: 20px;
   line-height: 1.7em;
 }
