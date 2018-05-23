@@ -53,7 +53,7 @@ h1, h2, h3{
 }
 
 h1{
-  color: rgba(51, 0, 251, 0.8);
+  color: darkgreen;
   font-size: 45px;
 }
 
@@ -85,7 +85,7 @@ table{
 }
 
 .btn-red {
-  background-color: rgb(255, 153, 204);
+  background-color: deeppink;
   color: white;
   font-weight: 500;
   padding: 8px;
@@ -101,7 +101,7 @@ table{
 }
 
 .img-circle {
-  border-radius: 24%;
+  border-radius: 50%;
 }
 
 #img-profile {
