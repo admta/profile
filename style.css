@@ -12,7 +12,7 @@ element {
 */
 .card {
 /*  background: #b3bfe6, opacity: .4;*/
-  background-color: rgba(224, 224, 224, 0.8);
+  background-color: rgba(173, 255, 47, 0.8);
   background-image: none;
   background-repeat: repeat;
   background-attachment: scroll;
@@ -107,29 +107,9 @@ table{
 #img-profile {
   width: 300px;
   height: 280px;
-  border: qpx solid #cccccc;
-  border-top-width: 1px;
-  border-right-width: 1px;
-  border-bottom-width: 1px;
-  border-left-width: 1px;
-  border-top-style: solid;
-  border-right-style: solid;
-  border-bottom-style: solid;
-  border-left-style: solid;
-  border-top-color: rgb(201, 204, 204);
-  border-right-color: rgb(255, 204, 204);
-  border-bottom-color: rgb(255, 204, 204);
-  border-left-color: rgb(255, 204, 204);
-  -moz-border-top-colors: none;
-  -moz-border-right-colors: none;
-  -moz-border-bottom-colors: none;
-  -moz-border-left-colors: none;
-  border-image-source: none;
-  border-image-slice: 100% 100% 100% 100%;
-  border-image-width: 1 1 1 1;
-  border-image-outset: 0 0 0 0;
-  border-image-repeat: stretch stretch;
+
 }
+
 .list-inline {
     padding-left: 0;
 }
@@ -164,18 +144,13 @@ table{
     bottom: 30px;
     width: 150px;
     text-align: center;
+    list-style: none;
 }
 
 #sidebar li {
     margin-top: 50px;
     margin-bottom: 50px;
-}
 
-#sidebar ul {
-    list-style: none;
-        list-style-type: none;
-        list-style-image: none;
-        list-style-position: outside;
 }
 
 .container-fluid {
